@@ -26,6 +26,7 @@ There are many types of inheritance: single, multiple and multilevel inheritance
   ![single_inheritance_in_cpp-1280x720](https://github.com/shrishh9/bankingsystem/assets/140807533/af9218fe-2307-4418-a5b8-dd50b2990fd9)
 
 - Multiple Inheritance: A class inherits from more than one class.
+  
   ![download](https://github.com/shrishh9/bankingsystem/assets/140807533/5da39d2b-5f8a-44a4-9269-3cff9444eca8)
 
 - Multilevel Inheritance: A class derives from a class, and then another class derives from it.
